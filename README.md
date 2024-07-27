@@ -14,6 +14,7 @@ Check conditions in these :
 - [Remember](https://leetcode.com/problems/longest-repeating-character-replacement/)
 - [sliding window maximum](https://leetcode.com/problems/sliding-window-maximum/description/)
 - [isme bhi monotonic stack ](https://leetcode.com/problems/daily-temperatures/description/)
+- [monotonic stack](https://leetcode.com/problems/largest-rectangle-in-histogram/description/)
 - [generate parenthesis](https://leetcode.com/problems/generate-parentheses/description/)
 - [car fleet](https://leetcode.com/problems/car-fleet/description/)
 C++ questions :
