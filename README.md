@@ -28,9 +28,11 @@ Check conditions in these :
 - [generate parenthesis](https://leetcode.com/problems/generate-parentheses/description/)
 - [car fleet](https://leetcode.com/problems/car-fleet/description/)
 - [max path sum bst](https://leetcode.com/problems/binary-tree-maximum-path-sum/description/)
+- [topo sort](https://leetcode.com/problems/course-schedule/description/)
 
 C++ questions :
 - [c++ interview questions](https://kainjan1.wordpress.com/wp-content/uploads/2020/10/oop-mcq-question-bank.-1.pdf)
 - [static keyword](https://github.com/NIXBLACK11/Cpp_basic/blob/main/Unit-01/counttimes.cpp)
 - [friend function](https://github.com/NIXBLACK11/Cpp_basic/blob/main/Unit-01/val.cpp)
 - [operator overloading](https://github.com/NIXBLACK11/Cpp_basic/blob/main/Unit-02/ff.cpp)
+
