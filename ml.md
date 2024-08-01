@@ -3,3 +3,9 @@
 
 gradient descent
 ![alt text](image.png)
+
+cnn
+![alt text](image-1.png)
+
+yolo
+![alt text](image-2.png)
