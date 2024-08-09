@@ -32,6 +32,7 @@ Check conditions in these :
 - [topo sort](https://leetcode.com/problems/course-schedule/description/)
 
 C++ questions :
+- [c++ repository](https://github.com/NIXBLACK11/Cpp_basic/tree/main)
 - [c++ interview questions](https://kainjan1.wordpress.com/wp-content/uploads/2020/10/oop-mcq-question-bank.-1.pdf)
 - [static keyword](https://github.com/NIXBLACK11/Cpp_basic/blob/main/Unit-01/counttimes.cpp)
 - [friend function](https://github.com/NIXBLACK11/Cpp_basic/blob/main/Unit-01/val.cpp)
