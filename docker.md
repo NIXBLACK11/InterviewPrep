@@ -15,7 +15,7 @@ docker ps
 - to give env values
 
 ```bash
-docker run -d -p 3000:3000 backend-app -e DATABASE_URL="<api_key>"
+docker run -d -p 3000:3000 backend-app -e DATABASE_URL="<api_key>"f
 ```
 
 - To exectute a command inside a container
