@@ -1,39 +1,21 @@
 /*
 When using simply useState all props of the child components rerender even though their values remaiun same
 Use useMemo
+1.35
 */
 
-// function Header({title}) {
-//   return <div>
-//     {title}
-//   </div>
-// }
-import React, { useState, memo } from 'react';
 import './App.css';
+import Usememo from './hooks/usememo';
+import Usestate from './hooks/usestate';
 
 function App() {
-  const [title, setTitle] = useState("Initial name");
-
-  function updateTitle() {
-    setTitle("New name is " + Math.random());
-  }
-
   return (
     <>
-      <button onClick={updateTitle}>Click me</button>
-      <Header title={title}></Header>
-      <Header title="unchanged components1"></Header>
-      <Header title="unchanged components2"></Header>
-      <Header title="unchanged components2"></Header>
-      <Header title="unchanged components2"></Header>
-      <Header title="unchanged components3"></Header>
+      <Usestate/>
+      <Usememo/>
     </>
   );
 }
-
-const Header = memo(function Header({ title }) {
-  return <div>{title}</div>;
-});
 
 export default App;
 
