@@ -18,7 +18,7 @@ so get it through
 		    this->a=a;
 		    this->b=b;
 		}
-		friend void display(test &);
+		f void display(test &);
 	};
 	void display(test &ptr)
 	{
