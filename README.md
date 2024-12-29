@@ -13,7 +13,7 @@
 [cpp interview questions](https://www.geeksforgeeks.org/cpp-interview-questions/)
 [stl structures time complexity](https://chatgpt.com/c/e784d758-33bf-4aab-96b4-1eec60aaf5d6)
 
-
+[DBMS advanced](https://www.edureka.co/blog/interview-questions/sql-query-interview-questions#fetchname)
 
 
 Not seen :
@@ -24,7 +24,7 @@ Check conditions in these :
 - [Check the if condition](https://leetcode.com/problems/longest-substring-without-repeating-characters/)
 - [Remember](https://leetcode.com/problems/longest-repeating-character-replacement/)
 - [sliding window maximum](https://leetcode.com/problems/sliding-window-maximum/description/)
-- [isme bhi monotonic stack ](https://leetcode.com/problems/daily-temperatures/description/)
+- [isme bhi monotonic stack](https://leetcode.com/problems/daily-temperatures/description/)
 - [monotonic stack](https://leetcode.com/problems/largest-rectangle-in-histogram/description/)
 - [generate parenthesis](https://leetcode.com/problems/generate-parentheses/description/)
 - [car fleet](https://leetcode.com/problems/car-fleet/description/)
