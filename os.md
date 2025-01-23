@@ -1,0 +1,5 @@
+- https://www.javatpoint.com/operating-system
+- https://www.geeksforgeeks.org/operating-systems-interview-questions/
+- https://www.interviewbit.com/operating-system-interview-questions/
+- https://www.javatpoint.com/operating-system-interview-questions
+- https://leetcode.com/discuss/interview-question/operating-system/3816083/Interview-best-20-questions-on-OPERATING-SYSTEM/
